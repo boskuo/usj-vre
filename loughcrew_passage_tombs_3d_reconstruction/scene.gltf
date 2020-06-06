@@ -1,0 +1,515 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        23.288150787353516,
+        17.994770050048828,
+        -1.4742439985275269
+      ],
+      "min": [
+        0.049776971340179443,
+        1.5827200412750244,
+        -2.4938070774078369
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99851447343826294,
+        0.99992400407791138,
+        0.99999898672103882
+      ],
+      "min": [
+        -0.99586600065231323,
+        -0.99247688055038452,
+        -0.99981462955474854
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.97136205434799194,
+        1,
+        0.99992841482162476,
+        1
+      ],
+      "min": [
+        -0.9946257472038269,
+        -0.994678795337677,
+        -0.99990010261535645,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1,
+        1
+      ],
+      "min": [
+        0.0035145869478583336,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 65532,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        23.30640983581543,
+        17.964260101318359,
+        -0.088438630104064941
+      ],
+      "min": [
+        0.053232781589031219,
+        1.5291459560394287,
+        -2.455298900604248
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999011754989624,
+        0.99972182512283325,
+        0.9999992847442627
+      ],
+      "min": [
+        -0.99989312887191772,
+        -0.9945639967918396,
+        -0.99951297044754028
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.98914086818695068,
+        0.99999988079071045,
+        0.99909842014312744,
+        1
+      ],
+      "min": [
+        -0.99947470426559448,
+        -0.99473190307617188,
+        -0.99985629320144653,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99992698431015015,
+        0.99980717897415161
+      ],
+      "min": [
+        0,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 262128,
+      "componentType": 5125,
+      "count": 65532,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 18936,
+      "max": [
+        23.290519714355469,
+        17.994140625,
+        -0.088438630104064941
+      ],
+      "min": [
+        0.055176969617605209,
+        1.5408459901809692,
+        -2.4826090335845947
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4945536,
+      "componentType": 5126,
+      "count": 18936,
+      "max": [
+        0.99690800905227661,
+        0.99756288528442383,
+        0.99999982118606567
+      ],
+      "min": [
+        -0.96933788061141968,
+        -0.99974000453948975,
+        -0.99987798929214478
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2097024,
+      "componentType": 5126,
+      "count": 18936,
+      "max": [
+        0.90944361686706543,
+        0.99999254941940308,
+        0.99990099668502808,
+        1
+      ],
+      "min": [
+        -0.96646344661712646,
+        -0.96316885948181152,
+        -0.99882066249847412,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5172768,
+      "componentType": 5126,
+      "count": 18936,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        1,
+        1,
+        1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 18936,
+      "max": [
+        0.99987518787384033,
+        0.99967622756958008
+      ],
+      "min": [
+        0.00077166699338704348,
+        0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 524256,
+      "componentType": 5125,
+      "count": 18936,
+      "max": [
+        18935
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "GSXNet (https://sketchfab.com/gsxn)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/models/5c1b6b3224eb426cb88eea390ffad7d6",
+      "title": "Loughcrew Passage Tombs 3D Reconstruction"
+    },
+    "generator": "Sketchfab-3.18.7",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 600000,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1200000,
+      "byteOffset": 600000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5400000,
+      "byteOffset": 1800000,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2400000,
+      "byteOffset": 7200000,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 9600000,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Loughcrew_Passage_Tombs_baseColor.jpg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Loughcrew_Passage_Tombs",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Loughcrew_Passage_Tombs-material",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 3,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loughcrew_Passage_Tombs-material",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 9,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Loughcrew_Passage_Tombs-material",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -12.49821,
+        -9.5351020000000002,
+        2.0239829999999999,
+        1
+      ],
+      "name": "Loughcrew_Passage_Tombs"
+    },
+    {
+      "mesh": 0,
+      "name": "Loughcrew_Passage_Tombs-material"
+    },
+    {
+      "mesh": 1,
+      "name": "Loughcrew_Passage_Tombs-material"
+    },
+    {
+      "mesh": 2,
+      "name": "Loughcrew_Passage_Tombs-material"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
